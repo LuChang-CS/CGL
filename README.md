@@ -33,7 +33,7 @@ nltk.download('punkt')
 
 ## Download the MIMIC-III dataset
 
-Go to [https://mimic.physionet.org/gettingstarted/access/](https://mimic.physionet.org/) for access. Once you have the authority for the dataset, download the dataset and extract the csv files to `data/mimic3/raw/` in this project.
+Go to [https://mimic.physionet.org/](https://mimic.physionet.org/gettingstarted/access/) for access. Once you have the authority for the dataset, download the dataset and extract the csv files to `data/mimic3/raw/` in this project.
 
 # Preprocess the dataset
 
